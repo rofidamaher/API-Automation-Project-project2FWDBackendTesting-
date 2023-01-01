@@ -4,3 +4,5 @@ Project Requirements:
 1- Explore Trello and Get Credentials
 2- Implement TRELLO REST APIs using Postman
 3- Implement TRELLO REST APIs with RestAssured and Cucumber
+
+https://review.udacity.com/#!/rubrics/4908/view
